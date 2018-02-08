@@ -1,0 +1,36 @@
+.label.label-danger a {
+  color: #ffffff;
+  border-bottom: 1px dotted #ffffff;
+}
+
+.label.label-warning a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.label.label-info a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.label.label-primary a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.label.label-default a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.label.label-success a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.label.label-custom a {
+  color: #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+/*# sourceMappingURL=admin.min.css.map */

@@ -1,0 +1,142 @@
+<?php
+
+//'country', 'region', 'city', 'isp', 'org', 'as', 'lat', 'lon', 'timezone', 'zip', 'message', 'ip'
+
+return [
+    'yes'                   => 'Да',
+    'no'                    => 'Нет',
+    'online'                => 'В сети',
+    'login'                 => 'Войти',
+    'logout'                => 'Выйти',
+    'setting'               => 'Настройка',
+    'email'                 => 'E-mail',
+    'name'                  => 'Имя',
+    'username'              => 'Логин',
+    'password'              => 'Пароль',
+    'password_confirmation' => 'Подтверждение пароля',
+    'remember_me'           => 'Запомнить',
+    'user_setting'          => 'Настройки пользователя',
+    'avatar'                => 'Аватар',
+    'position'              => 'Месторасположение',
+    'homepage'              => 'Домашняя страница',
+    'age'                   => 'Возраст',
+    'profile'               => 'Профиль',
+    'gender' => 'Пол',
+    'birthday' => 'День рождения',
+    'address' => 'Адрес',
+    'last_login_at' => 'Последний вход',
+    'last_login_ip' => 'Последний IP',
+    'lat' => 'Широта', // latitude
+    'lng' => 'Долгота', // longitude
+    'lon' => 'Долгота', // longitude
+    'phone_number' => 'Телефонный номер',
+    'addition' => 'Дополнительно',
+    'country' => 'Старана',
+    'region' => 'Область',
+    'city' => 'Город',
+    'isp' => 'Интернет-провайдер',
+    'org' => 'Организация',
+    'as' => 'Автономная система (AS)',
+    'timezone' => 'Часовой пояс',
+    'zip' => 'Индекс',
+    'message' => 'Сообщение',
+    'app_message' => 'Сообщение',
+    'ip' => 'IP',
+
+    'all'           => 'Все',
+    'current_page'  => 'Текущая страница',
+    'selected_rows' => 'Выбранные строки',
+
+    'males' => 'Мужчины',
+    'females' => 'Женщины',
+
+    'male' => 'Мужской',
+    'female' => 'Женский',
+    'none' => 'Не выбрано',
+
+    'month_more' => 'месяц|месяца|месяцев',
+
+    'attantion' => 'Внимание',
+    'list'         => 'Список',
+    'new'          => 'Добавить',
+    'create'       => 'Новая запись',
+    'delete'       => 'Удалить',
+    'remove'       => 'Удалить',
+    'restore'      => 'Восстановить',
+    'edit'         => 'Редактировать',
+    'view'         => 'Посмотреть',
+    'browse'       => 'Выбор файла',
+    'reset'        => 'Сбросить',
+    'export'       => 'Экспорт',
+    'batch_delete' => 'Пакетная удаления',
+    'save'         => 'Сохранить',
+    'refresh'      => 'Обновить',
+    'order'        => 'Сортировка',
+    'expand'       => 'Развернуть',
+    'collapse'     => 'Свернуть',
+    'filter'       => 'Фильтр',
+    'close'        => 'Закрыть',
+    'show'         => 'Показать',
+    'entries'      => 'записи',
+    'captcha'      => 'Защитный код',
+
+    'action'            => 'Опции',
+    'title'             => 'Название',
+    'description'       => 'Описание',
+    'back'              => 'Назад',
+    'back_to_list'      => 'Вернуться к списку',
+    'submit'            => 'Сохранить',
+    'menu'              => 'Меню',
+    'input'             => 'Ввод',
+    'succeeded'         => 'Завершена',
+    'failed'            => 'Ошибка',
+
+    'released' => 'Активировать',
+    'unreleased' => 'Деактивировать',
+
+    'restore_confirm'   => 'Вы уверены, что хотите восстановить эту запись?',
+    'restore_succeeded' => 'Запись успешно восстановлена!',
+    'restore_failed'    => 'Ошибка при восстановлении!',
+    'delete_confirm'    => 'Вы уверены, что хотите удалить эту запись?',
+    'delete_succeeded'  => 'Запись успешно удалена!',
+    'delete_failed'     => 'Ошибка при удалении!',
+    'update_succeeded'  => 'Запись успешно изменена!',
+    'save_succeeded'    => 'Запись успешно создана!',
+    'refresh_succeeded' => 'Запись успешно обновлена!',
+    'login_successful'  => 'Авторизация успешна',
+
+    'choose'       => 'Выбрать',
+    'choose_file'  => 'Выбор файла',
+    'choose_image' => 'Выбор изображения',
+
+    'more' => 'Еще',
+    'deny' => 'Доступ запрещен',
+
+    'administrator' => 'Администратор',
+    'roles'         => 'Роли',
+    'permissions'   => 'Доступ',
+    'slug'          => 'Слаг',
+    'confirm'    => 'Подтвердить',
+    'cancel'     => 'Отменить',
+
+    'created_at' => 'Дата создания',
+    'updated_at' => 'Дата обновления',
+    'deleted_at' => 'Дата удаления',
+
+    'alert' => 'Ошибка',
+
+    'parent_id' => 'Родительский',
+    'icon'      => 'Икона',
+    'uri'       => 'URI',
+
+    'trashed' => 'Удаленные',
+    'operation_log'       => 'Журнал событий',
+    'parent_select_error' => 'Ошибок при выборе родителя',
+
+    'pagination' => [
+        'range' => 'Записи с :first по :last из :total',
+    ],
+
+    'upload' => 'Загрузить',
+    'new_folder' => 'Новая папка',
+];
